@@ -123,8 +123,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   image: {
-    height: 80,
-    width: 80,
+    height: 60,
+    width: 60,
   },
   bioContainer: {
     width: '100%',
